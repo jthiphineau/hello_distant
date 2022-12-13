@@ -1,1 +1,5 @@
-<!-- Ceci est un fichier php important! -->
+<?php
+
+// Ceci est un fichier php important
+
+?>
