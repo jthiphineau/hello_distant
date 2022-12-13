@@ -1,0 +1,26 @@
+Exercice 3:
+-créer un dossier exo3
+-lancer avec git
+-créer un fichier index.html et lui donner une structure de base
+-sauvegarder
+-créer une branche css et se positionne
+-mettre une balise style dans index.html
+-sauvegarder
+-revient en arrière 
+-on créer un fichier style.css
+-sauvegarder
+-rajouter du style
+-on fusionne le travail
+-on supprime la branche
+-on crée une branche js et se positionner
+-on se positionne
+-on crée un fichier app.js
+-ajouter une alerte 'salut tout le monde'
+-on fusionne le travail
+-on supprime la branche
+-on crée une branche php et se positionner
+-on se positionne
+-on crée un fichier fonctions.php
+-ajouter un commentaire 'Ceci est un fichier php important!'
+-on fusionne le travail
+-on supprime la branche
